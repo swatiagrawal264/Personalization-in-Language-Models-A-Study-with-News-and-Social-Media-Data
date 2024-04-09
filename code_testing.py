@@ -25,7 +25,7 @@ def ask_chatgpt(question, api_key):
     return None
 
 # Example usage to read the dataset and interact with ChatGPT for each item
-api_key = "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"  # Replace with your actual API key
+api_key = "__"  # Replace with your actual API key
 file_path = "/Users/medhagoel/Downloads/Compsci646/Final_project/dev_questions_tweet.json"
 
 # Read the dataset
